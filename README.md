@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, I'm Scout Reilly 🖖🏻
 
-<!--
-**scoutreilly/scoutreilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a Software Engineer @ Zonos
+- Currently working on [Zonos Classify](https://zonos.com/zonos-classify-hs-codes)
+- I'm studying Java, GraphQL and SQL
 
-Here are some ideas to get you started:
+## Reach out! 
+- [LinkedIn](https://www.linkedin.com/in/scout-reilly/)
+- Email me scouty33@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A bit about me
+- I'm a trekkie through and through, original series all the way 
+- I love spiders 🕷
+- I initially fell in love with Javascript, it continues to be my fav language 🎉
+- Anything spooky has my heart 💙
