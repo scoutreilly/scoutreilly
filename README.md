@@ -13,5 +13,3 @@
 - I love spiders 🕷
 - I initially fell in love with Javascript, it continues to be my fav language 🎉
 
-## Languages and Tools
-![java](https://github.com/scoutreilly/scoutreilly/blob/main/images/java.jpg)
