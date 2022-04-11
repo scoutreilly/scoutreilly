@@ -12,4 +12,6 @@
 - I'm a trekkie through and through, original series all the way 
 - I love spiders 🕷
 - I initially fell in love with Javascript, it continues to be my fav language 🎉
-- Anything spooky has my heart 💙
+
+## Languages and Tools
+![java](https://github.com/scoutreilly/scoutreilly/blob/main/images/java.jpg)
