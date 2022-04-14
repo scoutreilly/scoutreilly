@@ -14,7 +14,17 @@
 - I initially fell in love with Javascript, it continues to be my fav language 🎉
 
 ## Languages and tools 
-<p align="left">
-  <img src="/images/java.jpg" width="350">
-  <img src="/images/aws.png" width="350">
-</p>
+- Amazon Web Services
+- Docker
+- Github
+- GraphQL
+- IntelliJ
+- Java
+- Javascript
+- Jenkins
+- Node
+- PostgreSQL
+- React
+- RestAPI
+- SQL
+- VSCode
