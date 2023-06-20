@@ -7,19 +7,19 @@ I'm a Software Engineer @ Zonos, currently working on [Zonos Classify](https://z
 - Email me scouty33@gmail.com
 
 ## Languages and tools 
-- Amazon Web Services
-- Docker
-- Spring
-- GraphQl
-- Github
-- GraphQL
-- IntelliJ
 - Java
 - Javascript
+- Spring
+- DGS Framework
+- GraphQL
+- REST
 - Jenkins
+- Terraform
+- Amazon Web Services
+- Docker
 - Node
 - PostgreSQL
-- React
-- RestAPI
 - SQL
+- Github
+- IntelliJ
 - VSCode
